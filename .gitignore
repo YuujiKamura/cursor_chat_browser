@@ -1,0 +1,36 @@
+# バックアップディレクトリ
+bak/
+
+# 個人的なデータを含む可能性があるディレクトリ
+extracted/
+
+# Python関連
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# VSCode関連
+.vscode/
+.vs/
+.idea/
+
+# システムファイル
+.DS_Store
+Thumbs.db 
