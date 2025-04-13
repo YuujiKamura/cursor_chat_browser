@@ -1,0 +1,5 @@
+# Cursor Chat Browser の依存関係
+
+# 基本的なパッケージ
+pathlib>=1.0.0
+tk>=0.1.0  # tkinterはPythonに標準で含まれるが、一部の環境では必要かもしれない 

@@ -1,8 +1,10 @@
 # バックアップディレクトリ
-bak/
+backup/
 
 # 個人的なデータを含む可能性があるディレクトリ
 extracted/
+json/
+bak/
 
 # Python関連
 __pycache__/
